@@ -49,8 +49,17 @@ nav li{
     margin: 0 200px;
     display: flex;
     align-items: center;
-    
-
+}
+.banner .btn-second{
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 2px solid #FD6E0A;
+    padding: 18px 35px;
+    height: 64px;
+    background: #FFF8F3;
+    border-radius: 5px;
+    margin-left: 30px;
 }
 .banner .banner-sub-title{
     font-weight: 600;
